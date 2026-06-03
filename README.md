@@ -32,6 +32,18 @@ A personal portfolio site built with modern web technologies.
 - TypeScript
 - Radix UI components
 
+## Deployment
+
+### Deploy to Netlify
+
+1. Push your code to GitHub
+2. Go to [Netlify](https://app.netlify.com) and sign in
+3. Click "Add new site" → "Import an existing project"
+4. Connect your Git provider and select your repository
+5. Use these build settings:
+   - **Build command:** `npm run build`
+   - **Publish directory:** `.next`
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
