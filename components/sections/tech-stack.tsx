@@ -125,12 +125,6 @@ export function TechStackSection() {
               <Code2 className="w-4 h-4" />
               Tech Stack
             </span>
-            <h2 className="text-3xl lg:text-5xl font-bold mb-6 text-balance">
-              Technologies We Master
-            </h2>
-            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              We leverage cutting-edge technologies to build scalable, performant, and future-proof solutions for your business.
-            </p>
           </motion.div>
 
           {/* Category Filter */}

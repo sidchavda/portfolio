@@ -4,7 +4,6 @@ import { Navbar } from "@/components/navbar";
 import { HeroSection } from "@/components/sections/hero";
 import { AboutSection } from "@/components/sections/about";
 import { ServicesSection } from "@/components/sections/services";
-import { TechStackSection } from "@/components/sections/tech-stack";
 import { ProjectsSection } from "@/components/sections/projects";
 import { WhyUsSection } from "@/components/sections/why-us";
 import { TestimonialsSection } from "@/components/sections/testimonials";
@@ -22,7 +21,6 @@ export default function Home() {
         <HeroSection />
         <ProjectsSection />
         <ServicesSection />
-        <TechStackSection />
         <AboutSection />
         <WhyUsSection />
         <TestimonialsSection />

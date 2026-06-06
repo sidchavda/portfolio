@@ -14,6 +14,7 @@ import {
   Server,
   Wrench,
   Layers,
+  Search,
 } from "lucide-react";
 
 const services = [
@@ -66,6 +67,11 @@ const services = [
     icon: Wrench,
     title: "Maintenance & Support",
     description: "Ongoing technical support and maintenance for your applications.",
+  },
+  {
+    icon: Globe,
+    title: "SEO",
+    description: "Search engine optimization to improve visibility and drive organic traffic.",
   },
 ];
 
